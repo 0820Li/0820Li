@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+<!-- GitHub统计信息卡片 -->
+<div> 
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=0820Li&show_icons=true&theme=flag-india" /> 
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0820Li&show_icons=true&theme=flag-india&layout=compact" />
+</div>
 <!--
 **0820Li/0820Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
