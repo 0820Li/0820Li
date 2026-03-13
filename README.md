@@ -21,6 +21,14 @@
 | Current Goal | Stronger software engineering and system design |
 | Open Source | Open to discussion and collaboration |
 
+## Experience
+
+| Position | Organization | Period |
+| --- | --- | --- |
+| Teaching Assistant (TA) | McMaster University | 202X - 202X |
+| Research Assistant (RA) | McMaster University | 202X - 202X |
+| Intern | Ravsense LTD | 202X - 202X |
+
 ## Current Focus
 
 - Improving personal projects and code quality

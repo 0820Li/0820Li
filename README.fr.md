@@ -21,6 +21,14 @@
 | Objectif actuel | Renforcer l'ingenierie logicielle et la conception de systemes |
 | Open source | Ouvert aux echanges et a la collaboration |
 
+## Experience
+
+| Poste | Organisation | Periode |
+| --- | --- | --- |
+| Assistant d'enseignement (TA) | McMaster University | 202X - 202X |
+| Assistant de recherche (RA) | McMaster University | 202X - 202X |
+| Stagaire | Ravsense LTD | 202X - 202X |
+
 ## Priorites actuelles
 
 - Ameliorer mes projets personnels et la qualite du code
