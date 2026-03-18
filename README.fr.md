@@ -34,16 +34,7 @@
 - Ameliorer mes projets personnels et la qualite du code
 - Organiser mes notes d'apprentissage et de pratique logicielle
 
-<!-- ## Statistiques GitHub
 
-<div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=0820Li&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true" />
-  <img height="150px" src="https://streak-stats.demolab.com?user=0820Li&theme=flag-india" />
-</div>
-
-<img width="100%" src="https://ghchart.rshah.org/0820Li" alt="Graphique de contributions GitHub de Zongcheng Li" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=0820Li&theme=github-compact" alt="Graphique d'activite GitHub de Zongcheng Li" /> -->
 
 ## Fun Fact
 
@@ -72,16 +63,63 @@ En ce moment, je travaille les expressions du quotidien pour parler plus naturel
   <a href="mailto:zongchengli0820@gmail.com">
     <img src="https://img.shields.io/badge/E--mail%20Personnel-zongchengli0820%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:li1200@mcmaster.ca">
-    <img src="https://img.shields.io/badge/E--mail%20Universitaire-li1200%40mcmaster.ca-0a7ea4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-id">
-    <img src="https://img.shields.io/badge/LinkedIn-Votre%20Profil-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Localisation-Votre%20Ville%2C%20Pays-2e7d32?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telephone-%2B00%20123%20456%207890-6a1b9a?style=for-the-badge&logo=phone&logoColor=white" />
-</p>
 
----
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header&text=Zongcheng%20Li&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  </p>
 
-Merci de votre visite sur mon profil.
+  <h1 align="center">Bonjour, je suis Zongcheng Li 👋</h1>
+
+  <p align="center">
+    <a href="README.md">English</a> | Francais | <a href="README.zh.md">中文</a>
+  </p>
+
+  <p align="center">
+    Développeur personnel axé sur la création de mini-applications pratiques.
+  </p>
+
+  ## Expérience
+
+  | Poste | Organisation | Période |
+  | --- | --- | --- |
+  | Assistant d'enseignement (TA) | McMaster University | 202X - 202X |
+  | Assistant de recherche (RA) | McMaster University | 202X - 202X |
+  | Stagiaire | Ravsense LTD | 202X - 202X |
+
+  - Amélioration continue des projets personnels
+  - Organisation des notes d'apprentissage et des expériences d'ingénierie
+  - Utilisation du code pour améliorer la productivité
+  - J'aime beaucoup mon travail de TA et de RA, c'est très intéressant
+
+  ## Fun Fact
+
+  J'apprends le français avec Duolingo, en espérant devenir un maître des langues un jour.
+
+  Je suis aussi Local Guide niveau 5 sur Google Maps, principalement pour publier des restaurants que j'ai visités.
+
+  ## Open to
+
+  - Opportunités à temps plein et à temps partiel
+  - Stages
+  - Collaboration sur des projets
+  - Collaboration open source
+
+  ## Contact
+
+  <p>
+    <a href="mailto:zongchengli0820@gmail.com">
+      <img src="https://img.shields.io/badge/E--mail%20Personnel-zongchengli0820%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+
+    <a href="mailto:li1200@mcmaster.ca">
+      <img src="https://img.shields.io/badge/E--mail%20Universitaire-li1200%40mcmaster.ca-0a7ea4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+    </a>
+
+    <a href="https://www.linkedin.com/in/your-linkedin-id">
+      <img src="https://img.shields.io/badge/LinkedIn-Votre%20Profil-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
+
+  ---
+
+  Merci de votre visite sur mon profil.
