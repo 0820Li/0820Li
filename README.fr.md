@@ -16,9 +16,9 @@
 
 | Poste | Organisation | Période |
 | --- | --- | --- |
-| TA (assistant d'enseignement) | McMaster University | 202X - 202X |
-| RA (assistant de recherche) | McMaster University | 202X - 202X |
-| St. (stagiaire) | Ravsense LTD | 202X - 202X |
+| Assistant d'enseignement (TA) | McMaster University | 202X - 202X |
+| Assistant de recherche (RA) | McMaster University | 202X - 202X |
+| Stagiaire | Ravsense LTD | 202X - 202X |
 
 - Amélioration continue des projets personnels
 - Organisation des notes d'apprentissage et des expériences d'ingénierie
