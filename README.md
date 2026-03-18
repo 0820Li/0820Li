@@ -1,32 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header&text=Zongcheng%20Li&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<h1 align="center">Hello, I'm Zongcheng Li 👋</h1>
-
-<p align="center">
-  English | <a href="README.fr.md">Francais</a> | <a href="README.zh.md">中文</a>
-</p>
-
-<p align="center">
-  Developer focused on backend, web apps, and practical automation.
-</p>
-
-## About Me
-
-| Topic | Details |
-| --- | --- |
-| Focus Areas | Backend development, web applications, automation tools |
-| Tech Stack | Java, Python, JavaScript, SQL, Git |
-| Current Goal | Stronger software engineering and system design |
-| Open Source | Open to discussion and collaboration |
-
-## Experience
-
-| Position | Organization | Period |
-| --- | --- | --- |
-| Teaching Assistant (TA) | McMaster University | 202X - 202X |
-| Research Assistant (RA) | McMaster University | 202X - 202X |
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header&text=Zongcheng%20Li&fontSize=40&fontColor=ffffff&animation=fadeIn" />
@@ -46,9 +17,9 @@
 
 | Position | Organization | Period |
 | --- | --- | --- |
-| Teaching Assistant (TA) | McMaster University | 202X - 202X |
-| Research Assistant (RA) | McMaster University | 202X - 202X |
-| Intern | Ravsense LTD | 202X - 202X |
+| TA (Teaching Assistant) | McMaster University | 202X - 202X |
+| RA (Research Assistant) | McMaster University | 202X - 202X |
+| St. (Intern) | Ravsense LTD | 202X - 202X |
 
 - Continuously improving personal projects
 - Organizing learning notes and engineering insights
