@@ -51,8 +51,8 @@
     <img src="https://img.shields.io/badge/School%20Email-li1200%40mcmaster.ca-0a7ea4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/your-linkedin-id">
-    <img src="https://img.shields.io/badge/LinkedIn-%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/zongcheng-li/">
+    <img src="https://img.shields.io/badge/LinkedIn-Zongcheng%20Li-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 

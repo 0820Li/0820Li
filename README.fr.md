@@ -49,8 +49,8 @@ Je suis aussi Local Guide niveau 5 sur Google Maps, principalement pour publier 
     <img src="https://img.shields.io/badge/E--mail%20Universitaire-li1200%40mcmaster.ca-0a7ea4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/your-linkedin-id">
-    <img src="https://img.shields.io/badge/LinkedIn-Votre%20Profil-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/zongcheng-li/">
+    <img src="https://img.shields.io/badge/LinkedIn-Zongcheng%20Li-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
