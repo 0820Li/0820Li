@@ -60,12 +60,38 @@ Right now I'm focusing on everyday expressions so I can speak more naturally.
 </p>
 
 ## Open to
+p
 
-- Full-time and part-time opportunities
-- Internships
-- Project collaboration
-- Open-source collaboration
+## 📊 My Coding Activity (Powered by CodeTime)
 
+<!-- codetime start -->
+<!-- This section will be automatically updated by CodeTime extension or GitHub Actions -->
+<!-- Example output:
+🕑︎ Time Zone: Asia/Shanghai
+💬 Programming Languages: 
+Markdown                 10 hrs 49 mins      █████████████░░░░░░░░░░░░   52.96 % 
+C++                      6 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   31.60 % 
+Python                   2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+C#                       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+INI                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+
+🔥 Editors: 
+VS Code                  13 hrs 55 mins      █████████████████░░░░░░░░   68.03 % 
+Visual Studio            6 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   31.97 % 
+
+🐱‍💻 Projects: 
+Zhytou.github.io         7 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   36.25 % 
+Tetris3D                 4 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+CS-Notes                 3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+star_identification      2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+tetris                   1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+
+💻 Operating System: 
+WSL                      10 hrs 31 mins      █████████████░░░░░░░░░░░░   51.49 % 
+Windows                  9 hrs 55 mins       ████████████░░░░░░░░░░░░░   48.51 % 
+-->
+<!-- codetime end -->
+ 
 ## Contact
 
 <p>
